@@ -41,17 +41,7 @@ html {
 
 body {
   background: var(--bg-color);
-  /* padding-left: 30rem; */
-}
-
-/* perloade styles  */
-#loading {
-  width: 100%;
-  height: 100vh;
-  position: fixed;
-  background: #E5EFF1 url('../img/preload1.gif') no-repeat center;
-  z-index: 9999;
-  background-size: 250px 250px;
+  padding-left: 30rem;
 }
 
 body.active {
@@ -661,7 +651,6 @@ footer span {
   header.active {
     left: 0%;
   }
-
   body {
     padding: 0;
   }
