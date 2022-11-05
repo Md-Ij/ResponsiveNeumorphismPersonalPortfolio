@@ -25,3 +25,10 @@ window.onscroll = () => {
     $('.top').hide()
   }
 }
+
+const loading = document.getElementById('loading')
+const body=document.querySelector('body')
+preload = () => {
+  loading.style.display = 'none'
+  body.style.paddingLeft='30rem'
+}
