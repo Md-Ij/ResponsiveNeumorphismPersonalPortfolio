@@ -1,6 +1,6 @@
-# <center>Responsive Neumorphism Personal Portfolio Website Design Using ( ***Html,Css,Js*** ) 👩‍💻 </center>
+# <center>Responsive Neumorphism Personal Portfolio Website Design Using ( ***Html,Css & JavaScript*** ) 👩‍💻 </center>
 ***
-## Project Demo [▶]('Click For Live Project Demo')
+## My Project Live Demo Please Click 👉 [▶](https://md-ij.github.io/ResponsiveNeumorphismPersonalPortfolio/ 'Click For Live Project Demo')
 ***
 ## *Full Page ScreenShot* ✅
 ![responsiveNess](https://user-images.githubusercontent.com/106918656/200102595-c0c0ef38-48fa-4245-ae16-f1658694cba3.png)
@@ -24,10 +24,3 @@
 6. **Contact Me Section**
 7. **Footer Section**
 ***
-<style>
-  .img{
-    border:.3rem solid #22577a;
-    border-radius:.3rem;
-    padding:.2rem;
-  }
-  </style>
