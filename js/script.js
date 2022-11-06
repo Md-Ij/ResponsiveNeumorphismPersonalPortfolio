@@ -26,3 +26,7 @@ window.onscroll = () => {
   }
 }
 
+const loading = document.getElementById('loading')
+preload = () => {
+  loading.style.display='none'
+}
